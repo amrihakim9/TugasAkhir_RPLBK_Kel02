@@ -1,0 +1,128 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "nama": "Oppo"
+    },
+    {
+      "id": 2,
+      "nama": "SAMSUNG"
+    },
+    {
+      "id": 3,
+      "nama": "iPhone"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "kode": "K-01",
+      "nama": "Find X2 Pro",
+      "harga": 17999000,
+      "is_ready": true,
+      "gambar": "findx2pro.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Oppo"
+      }
+    },
+    {
+      "id": 2,
+      "kode": "K-02",
+      "nama": "Reno 10x Zoom",
+      "harga": 7490000,
+      "is_ready": true,
+      "gambar": "reno10xzoom.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Oppo"
+      }
+    },
+    {
+      "id": 3,
+      "kode": "K-03",
+      "nama": "F11 Pro",
+      "harga": 2508000,
+      "is_ready": true,
+      "gambar": "f11pro.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Oppo"
+      }
+    },
+    {
+      "id": 4,
+      "kode": "K-04",
+      "nama": "Galaxy Z Flip3 5G",
+      "harga": 14070830,
+      "is_ready": true,
+      "gambar": "zflip3.jpg",
+      "category": {
+        "id": 2,
+        "nama": "SAMSUNG"
+      }
+    },
+    {
+      "id": 5,
+      "kode": "K-05",
+      "nama": "Galaxy Note20 Ultra 5G",
+      "harga": 16999000,
+      "is_ready": true,
+      "gambar": "note20.jpg",
+      "category": {
+        "id": 2,
+        "nama": "SAMSUNG"
+      }
+    },
+    {
+      "id": 6,
+      "kode": "K-06",
+      "nama": "Galaxy A72",
+      "harga": 6399000,
+      "is_ready": true,
+      "gambar": "a72.jpg",
+      "category": {
+        "id": 2,
+        "nama": "SAMSUNG"
+      }
+    },
+    {
+      "id": 7,
+      "kode": "K-07",
+      "nama": "iPhone XR",
+      "harga": 7150000,
+      "is_ready": true,
+      "gambar": "xr.jpg",
+      "category": {
+        "id": 3,
+        "nama": "iPhone"
+      }
+    },
+    {
+      "id": 8,
+      "kode": "K-08",
+      "nama": "iPhone 11",
+      "harga": 11999000,
+      "is_ready": true,
+      "gambar": "11.jpg",
+      "category": {
+        "id": 3,
+        "nama": "iPhone"
+      }
+    },
+    {
+      "id": 9,
+      "kode": "K-09",
+      "nama": "iPhone 12",
+      "harga": 17699000,
+      "is_ready": true,
+      "gambar": "12.jpg",
+      "category": {
+        "id": 3,
+        "nama": "iPhone"
+      }
+    }
+  ],
+  "keranjangs": [],
+  "pesanans": []
+}
