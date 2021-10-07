@@ -3,19 +3,20 @@ body {
   font-family: 'Public Sans', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #d4d4d4;
 }
 
 .navbar {
-  background-color: #22668A;
+  background-color: #0c0c0c;
 }
 
 .category-aktif {
-  background-color: #22668A;
+  background-color: #0c0c0c;
   color: white;
 }
 
 .btn-primary {
-  background-color: #22668A;
+  background-color: #0c0c0c;
 }
 
 @media only screen and (max-height: 1000px) {
