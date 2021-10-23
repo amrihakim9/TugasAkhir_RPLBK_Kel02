@@ -13,6 +13,10 @@ const Icon = ({ nama }) => {
   if (nama === "iPhone") return <FontAwesomeIcon icon={faCheckSquare} className="mr-2" />;
   if (nama === "SAMSUNG")
     return <FontAwesomeIcon icon={faCheckSquare} className="mr-2" />;
+  if (nama === "Xiaomi")
+    return <FontAwesomeIcon icon={faCheckSquare} className="mr-2" />;
+  if (nama === "realme")
+    return <FontAwesomeIcon icon={faCheckSquare} className="mr-2" />;
 
   return <FontAwesomeIcon icon={faCheckSquare} className="mr-2" />;
 };
